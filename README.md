@@ -1,2 +1,2 @@
-# EdenBirth
-Eden10Birthday - This is just a test, Don't mind this repo!
+# EdenBirth website
+## [Click Here](https://activegamers.github.io/EdenBirth/) to open website!
